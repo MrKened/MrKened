@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Mr.Kened
 
 - 📖Hoje trabalho como professor de inglês.
-- 🐍Estudando Python, JavaScript e C#
 - 🎯Pronomes: ele/dele
 <div align="left">
  <a href="https://github.com/MrKened">
