@@ -2,7 +2,8 @@
 
 - 📖Hoje trabalho como professor de inglês.
 - 🎯Pronomes: ele/dele
-- 
+- 👨‍💻Aprendendo cada vez mais.
+
 <div align="left">
  <a href="https://github.com/MrKened">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKened&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
